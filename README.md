@@ -1,7 +1,3 @@
-Got it! Since everything is inside **one single Word document named `Task.docx`**, here is a clean, professional **GitHub README.md** made specifically for a repository that contains **ONE consolidated file**.
-
----
-
 # 📄 **Cyber Security Internship – Canaan Ed & Tech (Level 1)**
 
 ### *Complete Internship Task Submission (All 5 Tasks in One Document)*
@@ -112,11 +108,7 @@ Simply download or open:
 Task.docx
 ```
 
-It contains everything needed for assessment, certification, or review.
+It contains everything needed for assessment, or review.
 
----
 
-## ⭐ **Support**
-
-If this repository is useful, feel free to **star ⭐** it.
 
